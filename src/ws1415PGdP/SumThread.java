@@ -1,5 +1,5 @@
-package ws1415PGdP;
 
+package ws1415PGdP;
    import java.util.*;
   public class SumThread{
    public static void main(String[] args) {
@@ -12,4 +12,3 @@ package ws1415PGdP;
 
    }
 }
-     
